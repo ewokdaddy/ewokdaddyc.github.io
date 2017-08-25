@@ -28,7 +28,7 @@ function ShowCookie() {
 	var cookie;
 	cookie = document.cookie.toUpperCase();
 	document.getElementById('cookie').value = cookie;
-	alert(cookie);
+	//alert(cookie);
 }
 
 
